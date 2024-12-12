@@ -6,9 +6,7 @@ Attempting to learn Julia through Advent of Code. Each file will have a part1 an
 ```
 1/
     main.jl
-    input.txt
 2/
     main.jl
-    input.txt
 ...
 ```
